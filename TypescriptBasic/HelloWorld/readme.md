@@ -11,4 +11,5 @@ jika kita jalan kan dengan perintah
 ```shell
 bun TypescriptBasic/HelloWorld/hello.ts
 ```
+
 Hasilnya "Hello world"
